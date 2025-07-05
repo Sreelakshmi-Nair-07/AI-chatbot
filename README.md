@@ -12,6 +12,3 @@ It helps users compare real-time product prices across leading Indian e-commerce
 - Persistent chat-based interface with a mobile-friendly UI
 
 
-NVIDIA_API_KEY = "your-nvidia-api-key"
-TAVILY_API_KEY = "your-tavily-api-key"
-AGENTQL_API_KEY = "your-agentql-api-key"
